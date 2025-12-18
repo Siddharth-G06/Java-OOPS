@@ -1,0 +1,14 @@
+Enter Employee name: XYZ
+Enter Employee base salary: 15000.0
+OUTPUT Employee Salary: 15000.0
+Enter Manager name: ABC
+Enter Manager base salary: 35000.0
+Enter Manager bonus: 1000.0
+OUTPUT Manager Salary: 36000.0
+Enter Employee name: ABC
+Enter Employee base salary: 15000.0
+OUTPUT Employee Salary: 15000.0
+Enter Manager name: XYZ
+Enter Manager base salary: 1000.0
+Enter Manager bonus: 10000.0
+OUTPUT Manager Salary: 11000.0

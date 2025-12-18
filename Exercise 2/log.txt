@@ -1,0 +1,66 @@
+User chose option: 1
+Currency conversion option selected: 1
+Amount entered for conversion: 1.0
+1.0 Dollar = 86.5 INR
+User chose option: 1
+Currency conversion option selected: 2
+Amount entered for conversion: 100.0
+100.0 INR = 1.1560693641618498 Dollars
+User chose option: 1
+Currency conversion option selected: 3
+Amount entered for conversion: 10.0
+10.0 Euro = 1001.7 INR
+User chose option: 1
+Currency conversion option selected: 4
+Amount entered for conversion: 200.0
+200.0 INR = 1.9966057701906759 Euros
+User chose option: 1
+Currency conversion option selected: 5
+Amount entered for conversion: 100.0
+100.0 Yen = 59.0 INR
+User chose option: 1
+Currency conversion option selected: 6
+Amount entered for conversion: 59.0
+59.0 INR = 100.0 Yen
+User chose option: 2
+Distance conversion option selected: 1
+Distance entered for conversion: 1000.0
+1000.0 Meters = 1.0 Kilometer
+User chose option: 2
+Distance conversion option selected: 2
+Distance entered for conversion: 1.0
+1.0 Kilometer = 1000.0 Meter
+User chose option: 2
+Distance conversion option selected: 3
+Distance entered for conversion: 1.5
+1.5 Miles = 2.4135 Kilometer
+User chose option: 2
+Distance conversion option selected: 4
+Distance entered for conversion: 100.0
+100.0 Kilometer = 62.15040397762586 Miles
+User chose option: 3
+Time conversion option selected: 1
+Time entered for conversion: 1.0
+1.0 Hours = 60.0 Minutes
+User chose option: 3
+Time conversion option selected: 2
+Time entered for conversion: 60.0
+60.0 Minutes = 1.0 Hours
+User chose option: 3
+Time conversion option selected: 3
+Time entered for conversion: 1.0
+1.0 Hours = 3600.0 Seconds
+User chose option: 3
+Time conversion option selected: 4
+Time entered for conversion: 3600.0
+3600.0 Seconds = 1.0 Hours
+User chose option: 4
+Exiting the program.
+User chose option: 1
+Currency conversion option selected: 1
+Amount entered for conversion: 86.0
+86.0 Dollar = 7439.0 INR
+User chose option: 2
+Distance conversion option selected: 1
+Distance entered for conversion: 1500.0
+1500.0 Meters = 1.5 Kilometer

@@ -1,0 +1,10 @@
+LOG: Transaction attempted: amount = $200.0
+LOG: Transaction attempted: amount = $1200.0
+LOG: Transaction attempted: amount = $200.0
+LOG: Transaction attempted: amount = $1200.0
+LOG: Transaction attempted: amount = $800.0
+LOG: Transaction attempted: amount = $1000.0
+LOG: Transaction attempted: amount = Rs.100.0
+LOG: Transaction attempted: amount = Rs.500.0
+LOG: Transaction attempted: amount = Rs.9000.0
+LOG: Transaction attempted: amount = Rs.1000.0

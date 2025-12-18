@@ -1,0 +1,51 @@
+Enter Consumer Number: INPUT Consumer Number: 454454
+Enter Consumer Name: INPUT Consumer Name: Siddharth
+Enter Previous Reading: INPUT Previous Reading: 4569.0
+Enter Current Reading: INPUT Current Reading: 4862.0
+Enter Type (commercial/domestic): INPUT Type: domestic
+
+--- Electricity Bill ---
+Consumer Number: 454454
+Consumer Name: Siddharth
+Consumer Type: domestic
+Units Consumed: 293.0
+Amount to Pay: 722.0
+OUTPUT Units: 293.0
+OUTPUT Amount: 722.0
+
+Enter Consumer Number: INPUT Consumer Number: 755486
+Enter Consumer Name: INPUT Consumer Name: 10025
+Enter Previous Reading: INPUT Previous Reading: 12589.0
+Enter Current Reading: INPUT Current Reading: 14859.0
+Enter Type (commercial/domestic): INPUT Type: comercial
+Consumer Type Must Be 'commercial' or 'domestic'
+Invalid Type
+
+Enter Consumer Number: INPUT Consumer Number: 755486
+Enter Consumer Name: INPUT Consumer Name: IBM
+Enter Previous Reading: INPUT Previous Reading: 10025.0
+Enter Current Reading: INPUT Current Reading: 12589.0
+Enter Type (commercial/domestic): INPUT Type: commercial
+
+--- Electricity Bill ---
+Consumer Number: 755486
+Consumer Name: IBM
+Consumer Type: commercial
+Units Consumed: 2564.0
+Amount to Pay: 16898.0
+OUTPUT Units: 2564.0
+OUTPUT Amount: 16898.0
+
+Enter Consumer Number: INPUT Consumer Number: 456923
+Enter Consumer Name: INPUT Consumer Name: ABC TEXTILES
+Enter Previous Reading: INPUT Previous Reading: 10025.0
+Enter Current Reading: INPUT Current Reading: 9096.0
+Current Reading cannot be less than Previous Reading
+
+Enter Consumer Number: Consumer Number Should Be an Integer
+Enter Consumer Name: INPUT Consumer Name: 4454
+Enter Previous Reading: INPUT Previous Reading: 5421.0
+Enter Current Reading: Reading Should Be a Positive Real Number
+Enter Type (commercial/domestic): INPUT Type: commmercial
+Consumer Type Must Be 'commercial' or 'domestic'
+Invalid Type

@@ -1,0 +1,47 @@
+Enter the size of the array (positive integer): INPUT size: 5
+OUTPUT: Array of size 5 created successfully.
+INFO: Execution of try-catch-finally complete.
+Enter the size of the array (positive integer): INPUT size: -5
+EXCEPTION: Custom Exception caught: Array size must be positive.
+INFO: Execution of try-catch-finally complete.
+
+INPUT age: 16
+EXCEPTION: Unchecked exception caught: Age 16 is below voting age.
+INPUT age: 25
+OUTPUT: Age 25 is eligible to vote.
+INPUT age: 130
+EXCEPTION: Checked exception caught: Age 130 is unreasonably high.
+
+numbers.txt
+10
+20
+abc
+30
+40
+five
+50
+
+INPUT token: 10
+INPUT token: 20
+INPUT token: abc
+EXCEPTION: Invalid number found, skipping token.
+INPUT token: 30
+INPUT token: 40
+INPUT token: five
+EXCEPTION: Invalid number found, skipping token.
+INPUT token: 50
+OUTPUT: Sum of valid numbers: 150
+
+Starting balance: Rs.10000.0
+Enter amount to transfer (or type 'exit' to quit): INFO: Attempting to transfer Rs.100.0
+OUTPUT: Transfer successful. Remaining balance: Rs.9900.0
+INFO: Transfer returned: true
+Enter amount to transfer (or type 'exit' to quit): INFO: Attempting to transfer Rs.500.0
+OUTPUT: Transfer successful. Remaining balance: Rs.9400.0
+INFO: Transfer returned: true
+Enter amount to transfer (or type 'exit' to quit): INFO: Attempting to transfer Rs.9000.0
+OUTPUT: Transfer successful. Remaining balance: Rs.400.0
+INFO: Transfer returned: true
+Enter amount to transfer (or type 'exit' to quit): INFO: Attempting to transfer Rs.1000.0
+EXCEPTION: Transfer amount exceeds available balance.
+Enter amount to transfer (or type 'exit' to quit): Exiting program.

@@ -1,0 +1,429 @@
+
+INPUT: Enter initial stack size: 1
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 1
+INPUT: Enter value to push: 1
+1 pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 2
+1 popped from stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 3
+Stack is empty.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 1
+INPUT: Enter value to push: 1
+1 pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 1
+INPUT: Enter value to push: 2
+Stack resized to capacity: 2
+2 pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 1
+INPUT: Enter value to push: 3
+Stack resized to capacity: 4
+3 pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 1
+INPUT: Enter value to push: 4
+4 pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 1
+INPUT: Enter value to push: 5
+Stack resized to capacity: 8
+5 pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 3
+Stack elements (top to bottom): [ 5, 4, 3, 2, 1 ]
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 2
+5 popped from stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 2
+4 popped from stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 2
+3 popped from stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 2
+2 popped from stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 2
+1 popped from stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 2
+Exception: Cannot pop from empty stack.
+EXCEPTION: Cannot pop from empty stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 4
+Program exiting...
+Program exiting...
+INPUT: Enter initial stack size: 5
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 1
+INPUT: Enter value to push: Strawberry
+Strawberry pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 1
+INPUT: Enter value to push: Melon
+Melon pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 3
+Stack elements (top to bottom): [ Melon, Strawberry ]
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 1
+INPUT: Enter value to push: Apple
+Apple pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 3
+Stack elements (top to bottom): [ Apple, Melon, Strawberry ]
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 2
+Apple popped from stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 3
+Stack elements (top to bottom): [ Melon, Strawberry ]
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 2
+Melon popped from stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 3
+Stack elements (top to bottom): [ Strawberry ]
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 2
+Strawberry popped from stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 3
+Stack is empty.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 2
+Exception: Cannot pop from empty stack.
+EXCEPTION: Cannot pop from empty stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 4
+Program exiting...
+Program exiting...
+INPUT: Enter initial stack size: 10
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 1
+INPUT: Enter value to push: a
+a pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 1
+INPUT: Enter value to push: b
+b pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 1
+INPUT: Enter value to push: c
+c pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 1
+INPUT: Enter value to push: d
+d pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 1
+INPUT: Enter value to push: e
+e pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 1
+INPUT: Enter value to push: f
+f pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 1
+INPUT: Enter value to push: g
+g pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 1
+INPUT: Enter value to push: h
+h pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 3
+Stack elements (top to bottom): [ h, g, f, e, d, c, b, a ]
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 1
+INPUT: Enter value to push: i
+i pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 1
+INPUT: Enter value to push: j
+j pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 1
+INPUT: Enter value to push: k
+Exception: Cannot push: Stack has reached max capacity (10).
+EXCEPTION: Cannot push: Stack has reached max capacity (10).
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 3
+Stack elements (top to bottom): [ j, i, h, g, f, e, d, c, b, a ]
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 4
+Program exiting...
+Program exiting...
+INPUT: Enter initial stack size: 10
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 1
+INPUT: Enter value to push: 1
+1 pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 1
+INPUT: Enter value to push: 2
+2 pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 1
+INPUT: Enter value to push: 3
+3 pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 1
+INPUT: Enter value to push: 4
+4 pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 1
+INPUT: Enter value to push: 5
+5 pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 1
+INPUT: Enter value to push: 6
+6 pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 1
+INPUT: Enter value to push: 7
+7 pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 1
+INPUT: Enter value to push: 8
+8 pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 1
+INPUT: Enter value to push: 9
+9 pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 1
+INPUT: Enter value to push: 10
+10 pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 1
+INPUT: Enter value to push: 11
+Exception: Cannot push: Stack has reached max capacity (10).
+EXCEPTION: Cannot push: Stack has reached max capacity (10).
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 2
+10 popped from stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 2
+9 popped from stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 2
+8 popped from stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 3
+Stack elements (top to bottom): [ 7, 6, 5, 4, 3, 2, 1 ]
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 4
+Program exiting...
+Program exiting...
+INPUT: Enter initial stack size: 5
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 1
+INPUT: Enter value to push: 1
+1 pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 1
+INPUT: Enter value to push: 2
+2 pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 1
+INPUT: Enter value to push: 3
+3 pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 1
+INPUT: Enter value to push: 4
+4 pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 1
+INPUT: Enter value to push: 5
+5 pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 1
+INPUT: Enter value to push: 6
+Stack resized to capacity: 10
+6 pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 1
+INPUT: Enter value to push: 7
+7 pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 1
+INPUT: Enter value to push: 8
+8 pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 3
+Stack elements (top to bottom): [ 8, 7, 6, 5, 4, 3, 2, 1 ]
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 2
+8 popped from stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 2
+7 popped from stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 2
+6 popped from stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 3
+Stack elements (top to bottom): [ 5, 4, 3, 2, 1 ]
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+INPUT: Choice: 4
+Program exiting...
+Program exiting...

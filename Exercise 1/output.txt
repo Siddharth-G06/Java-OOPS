@@ -1,0 +1,14 @@
+Enter Consumer Number: Enter Consumer Name: Enter Previous Reading: Enter Current Reading: Enter Type (commercial/domestic): 
+--- Electricity Bill ---
+Consumer Number: 51351
+Consumer Name: sdc
+Consumer Type: domestic
+Units Consumed: 22.0
+Amount to Pay: ₹22.0
+Enter Consumer Number: Enter Consumer Number: Enter Consumer Name: Enter Previous Reading: Enter Current Reading: Enter Type (commercial/domestic): 
+--- Electricity Bill ---
+Consumer Number: 544653
+Consumer Name: hgv
+Consumer Type: commercial
+Units Consumed: 41222.0
+Amount to Pay: ₹287504.0

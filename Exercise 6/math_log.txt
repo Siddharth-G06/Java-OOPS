@@ -1,0 +1,21 @@
+Enter two integers: 10 12
+OUTPUT Sum (two ints): 22
+Enter three doubles: 12.0 13.0 14.0
+OUTPUT Sum (three doubles): 39.0
+Enter number of integers for varargs: 7
+Enter 7 integers: 1 2 3 4 10 22 33
+OUTPUT Sum (varargs): 75
+Enter two integers: 1 2
+OUTPUT Sum (two ints): 3
+Enter three doubles: 1.0 2.0 3.0
+OUTPUT Sum (three doubles): 6.0
+Enter number of integers for varargs: 7
+Enter 7 integers: 1 2 3 4 5 6 7
+OUTPUT Sum (varargs): 28
+Enter two integers: 1 2
+OUTPUT Sum (two ints): 3
+Enter three doubles: 1.0 2.0 3.0
+OUTPUT Sum (three doubles): 6.0
+Enter number of integers for varargs: 5
+Enter 5 integers: 1 2 3 4 5
+OUTPUT Sum (varargs): 15

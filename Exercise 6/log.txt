@@ -1,0 +1,24 @@
+Enter length and breadth of rectangle : 6.0 7.0
+Shape: Rectangle
+Area: 42.0
+Rectangle color is Green
+Enter base and height of triangle : 10.0 12.0
+Shape: Triangle
+Area: 60.0
+Triangle color is Red
+Enter radius of circle : 5.0
+Shape: Circle
+Area: 78.53981633974483
+Circle color is Yellow
+Enter length and breadth of rectangle : 10.0 12.0
+Shape: Rectangle
+Area: 120.0
+Rectangle color is Green
+Enter base and height of triangle : 12.0 5.0
+Shape: Triangle
+Area: 30.0
+Triangle color is Red
+Enter radius of circle : 3.0
+Shape: Circle
+Area: 28.274333882308138
+Circle color is Yellow

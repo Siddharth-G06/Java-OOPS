@@ -1,0 +1,70 @@
+
+PaySlip for Programmer: ABC
+--------------------------------------------------
+Employee ID      : 103
+Name             : ABC
+Address          : SNUC
+Email            : ABC@SNUC.com
+Mobile No        : 7778889991
+--------------------------------------------------
+Designation: Assistant Professor
+Basic Pay: 78000.0
+Gross Salary: 161460.0
+Net Salary: 152022.0
+
+
+PaySlip for Programmer: PQR
+--------------------------------------------------
+Employee ID      : 1012
+Name             : PQR
+Address          : SSNCE
+Email            : Pqr@ssnce.com
+Mobile No        : 7894561230
+--------------------------------------------------
+Designation: Professor
+Basic Pay: 85000.0
+Gross Salary: 175950.0
+Net Salary: 165665.0
+
+
+PaySlip for Programmer: XYZ
+--------------------------------------------------
+Employee ID      : 1036
+Name             : XYZ
+Address          : SNU Chennai
+Email            : xyz@snuchennai.com
+Mobile No        : 9632587410
+--------------------------------------------------
+Designation: Professor
+Basic Pay: 950000.0
+Gross Salary: 1966500.0
+Net Salary: 1851550.0
+
+
+PaySlip for Programmer: asdf
+--------------------------------------------------
+Employee ID      : 1112
+Name             : asdf
+Address          : SNUC
+Email            : asdf@snuc.com
+Mobile No        : 7894566212
+--------------------------------------------------
+Designation: Professor
+Basic Pay: 115000.0
+Gross Salary: 238050.0
+Net Salary: 224135.0
+
+
+PaySlip for Programmer: tsk
+--------------------------------------------------
+Employee ID      : 1456
+Name             : tsk
+Address          : chennai
+Email            : tsk@gmail.com
+Mobile No        : 931476541
+--------------------------------------------------
+Designation: Associate Professor
+Basic Pay: 86000.0
+Gross Salary: 178020.0
+Net Salary: 167614.0
+

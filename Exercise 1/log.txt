@@ -1,0 +1,6 @@
+Enter first number: INPUT a: 5
+Enter second number: INPUT b: 10
+OUTPUT Sum: 15
+OUTPUT Difference: -5
+Enter Consumer Number: Enter Consumer Name: Enter Previous Reading: Enter Current Reading: Enter Type (commercial/domestic): Consumer Type Must Be 'commercial' or 'domestic'
+Invalid Type
